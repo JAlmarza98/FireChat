@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-f2b96": {
+      "hosting": {
+        "FireChat": [
+          "firechat-f2b96"
+        ]
+      }
+    }
+  }
+}
